@@ -40,7 +40,7 @@
 </activation>
 <properties>
 <sonar.host.url>
-http://localhost:9000
+https://6c2b-106-51-85-240.in.ngrok.io
 </sonar.host.url>
 </properties>
 </profile>
